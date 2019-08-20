@@ -1,0 +1,25 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgurung01/project-3.git"
+  },
+  "author": "Pete McLaughlin <petemcl1978@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "yarn": "^1.17.3"
+  },
+  "description": "project 3 by Indima, Connolly, Pete and Dev Here is our 3rd project not together but for class. We have decided to optimize parenting and making a fool proof way to make sure everyone is on the same page and alerted for their tasks. This mothers little helper or absentminded dads reminder is a calender of events for every member of the family where a parent can be assigned to the tasks. Once a parent is assigned they are alerted and it is added to the calander. Once the day approaches there will be a reminder in the morning and one as the time of the task nears. there will also be a to do/ chore list. each chore for the children can be valuved monetarily for allowances and keep a running total so every one is even.",
+  "bugs": {
+    "url": "https://github.com/dgurung01/project-3/issues"
+  },
+  "homepage": "https://github.com/dgurung01/project-3#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
