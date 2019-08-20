@@ -9,6 +9,7 @@
   "author": "Pete McLaughlin <petemcl1978@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@auth0/auth0-spa-js": "^1.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "yarn": "^1.17.3"
