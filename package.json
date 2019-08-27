@@ -1,11 +1,8 @@
 {
   "name": "project-3",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dgurung01/project-3.git"
-  },
+  "version": "end",
+  "main": "pete",
+  "repository": "git+https://github.com/dgurung01/project-3.git",
   "author": "Pete McLaughlin <petemcl1978@gmail.com>",
   "license": "MIT",
   "dependencies": {
