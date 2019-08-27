@@ -1,0 +1,17 @@
+
+{
+    "domain": "dev-m61n6cja.auth0.com",
+    "clientId": "hdiJTNWnFRE9KYoVGJCLw3bFWzGbZddP",
+    "audience": "https://project3.com"
+  }
+
+  const configureClient = async () => {
+    const response = await fetchAuthConfig();
+    const config = await response.json();
+  
+    auth0 = await createAuth0Client({
+      domain: config.domain,
+      client_id: config.clientId,
+      audience: config.audience   // https://project3.com
+    });
+  };
