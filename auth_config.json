@@ -4,7 +4,7 @@
     "clientId": "hdiJTNWnFRE9KYoVGJCLw3bFWzGbZddP",
     "audience": "https://project3.com"
   }
-
+{
   const configureClient = async () => {
     const response = await fetchAuthConfig();
     const config = await response.json();
